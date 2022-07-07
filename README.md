@@ -19,3 +19,5 @@ What I would add/change if I were to continue working on this:
 - add a 'favorites' feature
 - build a calendar UI for easy appointment visualization
 - build it in an android development language (e.g., Java) due to android penetration in Pakistan
+
+Built with Python (Flask), as well as HTML, CSS (Bootstrap).
